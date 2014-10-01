@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22BD0F66-0745-4156-AFEA-26DC058D302A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Piccolo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E6584596112BDC108030E58AF5D1AAAB6BC86D55</key>
+		<string>ssh://github.com/SaltySoft/piccolo_cocktails.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Piccolo/Piccolo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E6584596112BDC108030E58AF5D1AAAB6BC86D55</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/SaltySoft/piccolo_cocktails.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E6584596112BDC108030E58AF5D1AAAB6BC86D55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E6584596112BDC108030E58AF5D1AAAB6BC86D55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>piccolo_cocktails</string>
+		</dict>
+	</array>
+</dict>
+</plist>
